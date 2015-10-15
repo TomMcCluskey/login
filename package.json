@@ -12,10 +12,12 @@
     "cookie-session": "^1.2.0",
     "debug": "~2.1.1",
     "express": "~4.12.2",
+    "express-session": "^1.11.3",
     "hbs": "~2.9.0",
     "morgan": "~1.5.1",
     "orchestrate": "^0.5.1",
     "passport": "^0.3.0",
+    "passport-local": "^1.0.0",
     "serve-favicon": "~2.2.0"
   }
 }
